@@ -15,15 +15,15 @@
 ##
 
 ### 🚀 Experiences
-- **UMC(University Makeus Challenge) OO 6th**  
+- **UMC(University Makeus Challenge) 6th**  
 
   > Spring 파트 challenger | 2024.03 - 2024.08
   
-- **Google Developer Students Club OO 5th**
+- **Google Developer Students Club 5th**
 
-  > Member & Backend Developer | 2023.09 - 2024.06 
+  > Server Member & Backend Developer | 2023.09 - 2024.06 
 
-- **UMC(University Makeus Challenge) OO 4th**  
+- **UMC(University Makeus Challenge) 4th**  
 
   > Spring 파트 challenger | 2023.03 - 2023.08
   
